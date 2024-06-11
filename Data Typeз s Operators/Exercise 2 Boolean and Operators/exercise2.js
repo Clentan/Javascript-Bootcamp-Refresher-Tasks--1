@@ -38,3 +38,17 @@ const b = false;
 console.log(a && b);
 console.log(a || b);
 console.log(a != b);
+
+let p = 10;
+
+p += 5;
+console.log(p);
+p -= 3;
+console.log(p);
+p *= 2;
+console.log(p);
+p /= 4;
+console.log(p);
+p %= 3;
+console.log(p);
+
